@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+section {
+    width: 100%;
+    overflow: hidden;
+    background-size: contain;
+}
+#header {
+    height: 80vh;
+    background-image: url(img/header-bg.png);
+}
+.highlight {
+    font-size: 30px;
+    margin-top: 10px;
+    color: #e96b80;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.text-align {
+    margin-top: 8%;
+}
+
+#header p {
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#bio p {
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.link-button {
+    text-decoration: none;
+    color: white;
+    border-radius: 7px;
+    padding: 10px 20px;
+    background-color: #e96b80;
+}
+.half-width img {
+    width: 80%;
+    height: 100%;
+}
+#bio {
+    background-image: url(img/biography-bg.png);
+    height: 85vh;
+}
+#latest-work {
+    height: vh;
+}
+#latest-work img {
+    width: 30%;
+    height: 50%;
+    padding-left: 2%;
+}
+.special-h1 {
+    margin: 30px;
+    text-align: center;
+}
+#feedback {
+    background-image: url(img/footer-bg.png);
+    text-align: center;
+}
+.btn-styling {
+    padding: 10px 15px;
+    margin: 10px;
+    font-weight: 600;
+    background-color: #d62267;
+    color: #fff;
+}
+
+.get-sms {
+    margin-top: 20px;
+    background-color: #d62267;
+    padding: 10px;
+    color: #ffffff;
+    width: 500px;
+    display: block;
+    margin: auto;
+    border-radius: 7px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 120px;
+    background-color: rgb(122, 118, 118);
+    height: 3vh;
+}
