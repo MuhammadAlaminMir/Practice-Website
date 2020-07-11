@@ -9,7 +9,7 @@ section {
     background-size: contain;
 }
 #header {
-    height: 80vh;
+    height: 115vh;
     background-image: url(img/header-bg.png);
 }
 .highlight {
@@ -51,7 +51,7 @@ section {
 }
 #bio {
     background-image: url(img/biography-bg.png);
-    height: 85vh;
+    height: 115vh;
 }
 #latest-work {
     height: vh;
